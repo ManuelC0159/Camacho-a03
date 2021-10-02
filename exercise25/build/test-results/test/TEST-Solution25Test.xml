@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Solution25Test" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-10-02T19:40:04" hostname="MANNYPC" time="0.019">
+  <properties/>
+  <testcase name="test1()" classname="Solution25Test" time="0.016"/>
+  <testcase name="test2()" classname="Solution25Test" time="0.001"/>
+  <testcase name="test3()" classname="Solution25Test" time="0.001"/>
+  <testcase name="test4()" classname="Solution25Test" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
